@@ -2,7 +2,7 @@
 <h3><a target="_blank" href="https://edwinchoi.netlify.app/" target="_blank">Visit Here</a></h3>
 <p>
   <a href="https://edwinchoi.netlify.app/" target="_blank">
-    <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Banner.png">
+    <img src="https://imgur.com/a/2I1thGR">
   </a>
 </p>
 
