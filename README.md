@@ -1,5 +1,5 @@
-<h1 align="center">Portfolio Website</h1>
-<p align="center">
+<h1>Portfolio Website</h1>
+<p>
   <a href="https://edwinchoi.netlify.app/" target="_blank">
     <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Banner.png">
   </a>
