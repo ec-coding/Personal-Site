@@ -1,10 +1,10 @@
 <h1>Portfolio Website</h1>
+<a target="_blank" href="https://edwinchoi.netlify.app/" ><h3>Visit Here</h3></a> 
 <p>
   <a href="https://edwinchoi.netlify.app/" target="_blank">
     <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Banner.png">
   </a>
 </p>
-<br />
 
 This website displays my latest projects and information regarding my freelancing work.
 
