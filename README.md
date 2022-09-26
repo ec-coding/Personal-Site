@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio Website</h1>
 <p align="center">
-  <a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
-    <img src="https://github.com/ec-coding/StoryBooks-App/blob/main/StoryBooks%20Banner.png">
+  <a href="https://edwinchoi.netlify.app/" target="_blank">
+    <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Banner.png">
   </a>
 </p>
 <br />
@@ -17,7 +17,7 @@ This website displays my latest projects and information regarding my freelancin
 
 ## Optimizations
 
-As my project list grows, I am planning to incorporate a Navbar for ease of access to the different sections of my page.
+As my project list grows, I am planning to incorporate a navigation bar for ease of access to the different sections of my page.
 
 ## Lessons Learned:
 
