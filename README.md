@@ -2,7 +2,7 @@
 <h3><a target="_blank" href="https://edwinchoi.netlify.app/" target="_blank">Visit Here</a></h3>
 <p>
   <a href="https://edwinchoi.netlify.app/" target="_blank">
-    <img src="//imgur.com/a/2I1thGR">
+    <img src="https://i.imgur.com/VEhr82O.png">
   </a>
 </p>
 
