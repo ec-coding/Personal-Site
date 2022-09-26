@@ -8,6 +8,7 @@
 
 This website displays my latest projects and information regarding my freelancing work.
 
+
 ## How It's Made:
 
 **Tech used:**     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
