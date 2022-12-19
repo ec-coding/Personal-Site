@@ -180,6 +180,10 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+	form {
+		color: black;
+	}
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
